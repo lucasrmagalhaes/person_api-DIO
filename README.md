@@ -24,4 +24,4 @@
 - https://start.spring.io/
 
 ##### Permissão para editar - Ubuntu:
-- sudo chown -R $(whoami) personapi-DIO
+- sudo chown -R $(whoami) person_api-DIO
