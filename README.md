@@ -1,4 +1,6 @@
-# person_api-DIO##### Objetivos da Aula:
+# Desenvolvendo um Sistema de Gerenciamento de Pessoas em API REST com Spring
+
+##### Objetivos da Aula:
 - Desenvolver uma API REST para o cadastro de usuário.
 - O que é o padrão REST, e associá-lo ao projeto.
 - Codificar, compartilhar e aprender todos juntos.
