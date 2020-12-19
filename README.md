@@ -30,7 +30,7 @@
 ##### Permissão para editar - Ubuntu:
 - sudo chown -R $(whoami) person_api-DIO
 
-##### Map Struct 
+##### MapStruct 
 - https://mapstruct.org/
 
 ##### Heroku
