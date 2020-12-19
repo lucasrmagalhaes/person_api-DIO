@@ -32,5 +32,5 @@
 ##### Heroku
 - https://id.heroku.com/login
 
-##### Loombok
+##### Lombok
 - https://projectlombok.org/setup/intellij
