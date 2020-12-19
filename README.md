@@ -31,3 +31,6 @@
 
 ##### Heroku
 - https://id.heroku.com/login
+
+##### Loombok
+- https://projectlombok.org/setup/intellij
