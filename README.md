@@ -25,3 +25,9 @@
 
 ##### Permissão para editar - Ubuntu:
 - sudo chown -R $(whoami) person_api-DIO
+
+##### Map Struct 
+- https://mapstruct.org/
+
+##### Heroku
+https://id.heroku.com/login
